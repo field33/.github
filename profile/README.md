@@ -1,4 +1,4 @@
-Hey there 👋 We're [Field 33](https://field33.com/)!
+Hey there 👋
 
 In our Github organization, you will find:
 
@@ -15,5 +15,3 @@ In our Github organization, you will find:
 
 
 ...and in the future many more of our efforts towards enabling easy building of ontologies and semantic data tooling!
-
-If that sounds interesting to, might also want to take a look at our [current openings](https://field33.com/jobs) to come join us and make the list above grow! 😊
